@@ -4,7 +4,7 @@
   <name>anolink</name>
   <version>0.0.0</version>
   <description>TODO: Package description</description>
-  <maintainer email="liangshaowen@noreply.gitcode.com">digiwang</maintainer>
+  <maintainer email="liangshaowen@noreply.gitcode.com">liangshaowen</maintainer>
   <license>TODO: License declaration</license>
 
   <buildtool_depend>ament_cmake</buildtool_depend>
