@@ -1,0 +1,10 @@
+uint8 flight_mode
+uint8 lock_state
+uint8 takeoff_state
+uint8 command_id
+uint8 command_0
+uint8 command_1
+uint8 velocity_sensor_state
+uint8 position_sensor_state
+uint8 gps_sensor_state
+uint8 altitude_sensor_state

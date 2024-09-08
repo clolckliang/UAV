@@ -1,0 +1,20 @@
+#飞控串口名称，可以使用cutecom查看该串口是否工作正常
+SerialName_FC: /dev/ttyACM0
+#飞控串口波特率，匿名飞控默认500000
+SerialBaud_FC: 500000
+#飞控imu数据topic名称
+PubTopicName_Imu: ano_imu
+PubTopicName_Mag: ano_mag
+PubTopicName_Tmp: ano_tmp
+PubTopicName_Alt: ano_alt
+PubTopicName_DDist: ano_ddist
+PubTopicName_ImuVel: ano_imuvel
+PubTopicName_CmdVel: ano_cmd_vel
+#匿名光流数据topic名称
+PubTopicName_OF: anoof_twist
+#需订阅的ros2控制指令topic名称
+SubTopicName_CmdVel: turtle1/cmd_vel
+SubTopicName_SlamPos: /Pos
+SubTopicName_FC_Pos: /FC_Cmd
+#与匿名助手进行udp连接的udp端口号
+UdpPort_UpPc: 12333
