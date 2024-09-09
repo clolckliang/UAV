@@ -1,10 +1,10 @@
 
 
-# AnoLink ROS 2 Package
+# Ano ROS 2 Package
 
 ## 项目简介
 
-AnoLink 是一个 ROS 2 包，用于与匿名科创的飞控系统进行通信和控制。该包提供了与飞控硬件交互的接口，包括发送控制命令、接收传感器数据以及监控飞行状态。
+Ano 是一个 ROS 2 包，用于与匿名科创的飞控系统进行通信和控制。该包提供了与飞控硬件交互的接口，包括发送控制命令、接收传感器数据以及监控飞行状态。
 
 ## 功能特性
 
@@ -50,7 +50,7 @@ git clone https://github.com/clolckliang/UAV.git
 
 ## 使用方法
 
-1. 启动 AnoLink 节点：
+1. 启动 Ano 节点：
 
    ```c
    ros2 run anolink anolink
