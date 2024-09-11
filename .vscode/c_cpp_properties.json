@@ -1,0 +1,28 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/uav/Desktop/UAV/install/lslidar_msgs/include/**",
+        "/home/uav/Desktop/UAV/install/cartographer_rviz/include/**",
+        "/home/uav/Desktop/UAV/install/cartographer_ros/include/**",
+        "/home/uav/Desktop/UAV/install/cartographer_ros_msgs/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/uav/Desktop/UAV/src/LSLIDAR/src/lslidar_driver/include/**",
+        "/home/uav/Desktop/UAV/src/anolink/include/**",
+        "/home/uav/Desktop/UAV/src/cartographer_ros/cartographer_ros/include/**",
+        "/home/uav/Desktop/UAV/src/cartographer_ros/cartographer_rviz/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
