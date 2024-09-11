@@ -2,7 +2,7 @@ import rclpy
 from rclpy.node import Node
 from geometry_msgs.msg import Twist
 from std_msgs.msg import String
-from anolink_interfaces.srv import FlightControl  # 假设服务定义用于飞控控制
+from anolink_interfaces.srv import FlightControl   # 假设服务定义用于飞控控制
 from anolink_interfaces.srv import SetFlightMode  # 假设服务定义用于模式切换
 import threading
 import time

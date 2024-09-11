@@ -1,6 +1,6 @@
 /lslidar_driver_node:
   ros__parameters: 
-    frame_id: laser                                       #激光坐标
+    frame_id: laser_link                                       #激光坐标
     group_ip: 224.1.1.2
     add_multicast: false 
     device_ip: 192.168.1.200                   	            #雷达源IP
